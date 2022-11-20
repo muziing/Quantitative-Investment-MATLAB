@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+
+# PyCharm IDE
+.idea/
+
+# Visual Studio Code Editor
+.vscode/
